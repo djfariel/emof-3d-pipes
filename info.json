@@ -5,7 +5,7 @@
   "author": "djfariel",
   "homepage": "https://github.com/djfariel/emof-3d-pipes",
   "factorio_version": "2.0",
-  "description": "Map-anchored, perspective-projected 3D Pipes-style chart overlay for EMOF. This is only a demonstration.",
+  "description": "Demo: performance-heavy 3D Pipes-style chart overlay for EMOF. Not for real playthroughs.",
   "dependencies": [
     "base >= 2.0",
     "extensible-map-overlay-framework >= 0.1.0"
