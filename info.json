@@ -1,0 +1,35 @@
+{
+  "name": "emof-3d-pipes",
+  "version": "0.1.0",
+  "title": "EMOF 3D Pipes Overlay",
+  "author": "djfariel",
+  "homepage": "https://github.com/djfariel/emof-3d-pipes",
+  "factorio_version": "2.0",
+  "description": "Map-anchored, perspective-projected 3D Pipes-style chart overlay for EMOF. This is only a demonstration.",
+  "dependencies": [
+    "base >= 2.0",
+    "extensible-map-overlay-framework >= 0.1.0"
+  ],
+  "package": {
+    "ignore": [
+      ".git/**",
+      ".gitignore",
+      ".idea/**",
+      ".vscode/**",
+      ".editorconfig",
+      "README.md",
+      "description.md",
+      "**/*.zip",
+      "Thumbs.db",
+      ".DS_Store"
+    ],
+    "readme": "description.md",
+    "sync_portal_details": true,
+    "zipLocation": "outside",
+    "gallery": [
+      "gallery/*.gif",
+      "gallery/*.png"
+    ],
+    "prune_gallery": true
+  }
+}
