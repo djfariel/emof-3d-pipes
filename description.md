@@ -2,7 +2,7 @@
 
 Companion mod for **[Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework)**. Renders a Windows 3D Pipes-inspired chart overlay using perspective-projected pipe segments. This is a demonstration. I cannot stress this enough: this is incredibly performance-heavy and should NOT be used in an actual game you intend to play through.
 
-**Requires [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework) >= 0.1.0.**
+**Requires [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework).**
 
 ![3D Pipes overlay on the Factorio chart](https://raw.githubusercontent.com/djfariel/emof-3d-pipes/refs/heads/main/gallery/factorio_ARza6tcfQE.gif)
 
